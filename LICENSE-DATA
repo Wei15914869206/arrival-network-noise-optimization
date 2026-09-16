@@ -1,0 +1,50 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The data files in this repository are licensed under the Creative Commons
+Attribution 4.0 International License:
+
+    data/entry_points_if_faf.csv
+    data/waypoints_published_procedures.csv
+    data/procedure_chains.csv
+    data/data_dictionary.md
+    population_data_square.xlsx
+
+You are free to:
+
+    Share — copy and redistribute the material in any medium or format
+    Adapt — remix, transform, and build upon the material
+
+for any purpose, even commercially.
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the
+    licence, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor endorses
+    you or your use.
+
+    No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the licence permits.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+Attribution for the population data
+
+population_data_square.xlsx is derived from LandScan Global 2024, Oak Ridge
+National Laboratory, distributed under CC BY 4.0
+(https://doi.org/10.48690/1532445). Any reuse must retain this attribution.
+
+Attribution for the procedure data
+
+The waypoint tables in data/ are derived numeric tables extracted from the
+Chinese Aeronautical Information Publication (AIP), AIRAC cycle 2606. No AIP
+text or chart is redistributed here. Users are responsible for complying with
+the terms applicable to the source publication when reusing these coordinates.
+
+---
+
+This licence applies to the data files listed above.
+The source code is covered by LICENSE.
