@@ -1,0 +1,9 @@
+role,name,latitude_deg,longitude_deg,altitude_m,grid_x_km,grid_y_km
+entry_point (E1),MATNU,31.660000,122.633333,5100,277.500,256.700
+entry_point (E2),DUMET,31.357778,122.775000,4800,294.500,220.433
+entry_point (E3),LISHE,29.895000,121.333333,6000,121.500,44.900
+entry_point (E4),ANDONG,30.256667,121.221667,6000,108.100,88.300
+entry_point (E5),SASAN,31.589444,120.319444,6000,-0.167,248.233
+runway_threshold,PUD/P,,,,175.500,198.100
+final_approach_fix,FAF,,,,183.925,175.647
+intermediate_fix,IF,,,,186.300,169.300

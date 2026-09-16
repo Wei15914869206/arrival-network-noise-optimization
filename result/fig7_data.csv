@@ -1,0 +1,26 @@
+﻿series,thr,N,N_q1,N_q3,kind
+w_N=0.0,55.0,5341702.0,,,reclassification
+w_N=0.3,55.0,4578540.5,,,reclassification
+w_N=1.0,55.0,4404145.0,,,reclassification
+baseline,55.0,10041345.0,,,baseline
+w_N=0.0,60.0,4126197.0,,,reclassification
+w_N=0.3,60.0,3355738.0,,,reclassification
+w_N=1.0,60.0,3154681.0,,,reclassification
+baseline,60.0,7991401.0,,,baseline
+w_N=0.0,65.0,2470665.5,,,reclassification
+w_N=0.3,65.0,1779290.0,,,reclassification
+w_N=1.0,65.0,1618601.5,,,reclassification
+baseline,65.0,6169767.0,,,baseline
+w_N=0.0,70.0,756025.0,,,reclassification
+w_N=0.3,70.0,477981.0,,,reclassification
+w_N=1.0,70.0,369756.0,,,reclassification
+baseline,70.0,4010078.0,,,baseline
+w_N=0.0,75.0,453385.0,,,reclassification
+w_N=0.3,75.0,337033.0,,,reclassification
+w_N=1.0,75.0,275797.0,,,reclassification
+baseline,75.0,2446115.0,,,baseline
+reopt w_N=0.3,55.0,4464090.5,4428644.25,4496734.75,reoptimized
+reopt w_N=0.3,60.0,3278683.5,3253771.25,3310976.0,reoptimized
+reopt w_N=0.3,65.0,1779290.0,1751348.25,1817124.25,reoptimized
+reopt w_N=0.3,70.0,563119.5,535382.75,615287.5,reoptimized
+reopt w_N=0.3,75.0,364455.0,358362.0,367637.0,reoptimized
